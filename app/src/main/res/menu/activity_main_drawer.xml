@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <!--<item
+            android:id="@+id/nav_camera"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="EVENTS" />-->
+        <item
+            android:id="@+id/nav_MOMENTS"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="MOMENTS" />
+        <item
+            android:id="@+id/nav_REGISTER"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="REGISTER" />
+        <item
+            android:id="@+id/nav_MAP"
+            android:icon="@drawable/ic_menu_send"
+            android:title="MAP" />
+       
+    </group>
+
+    <item android:title="EVENTS">
+        <menu>
+            <item
+                android:id="@+id/nav_CSE"
+                android:icon="@drawable/ic_menu_send"
+                android:title="CSE" />
+            <item
+                android:id="@+id/nav_ECE"
+                android:icon="@drawable/ic_menu_send"
+                android:title="ECE" />
+            <item
+                android:id="@+id/nav_MECH"
+                android:icon="@drawable/ic_menu_send"
+                android:title="MECH" />
+            <item
+                android:id="@+id/nav_IBT"
+                android:icon="@drawable/ic_menu_send"
+                android:title="IBT" />
+            <item
+                android:id="@+id/nav_OTHERS"
+                android:icon="@drawable/ic_menu_send"
+                android:title="OTHERS" />
+        </menu>
+    </item>
+    <item android:title="GUEST TALK">
+        <menu>
+            <item
+                android:id="@+id/BALAJI"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Mr.BALAJI VISWANATHAN" />
+            <item
+                android:id="@+id/ADITI"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Ms.ADITI CHAURASIA" />
+            <item
+                android:id="@+id/PAWAN"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Dr.PAWAN AGRAWAL" />
+
+        </menu>
+    </item>
+
+</menu>

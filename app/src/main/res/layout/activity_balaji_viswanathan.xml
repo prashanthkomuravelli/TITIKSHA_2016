@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.hp.paytm.BalajiViswanathan"
+    android:background="@drawable/bg_poster">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/imageView2"
+        android:src="@drawable/balajiviswanathan"
+        android:clickable="true"
+        android:onClick="balajiwiki"
+        android:layout_marginBottom="233dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentStart="true"
+        android:paddingEnd="0dp"
+        android:paddingStart="0dp"
+        android:padding="0dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="ABOUT:"
+        android:id="@+id/textView8"
+        android:textSize="30sp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginBottom="185dp"
+        android:textColor="#FFFFFFFF" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Balaji Viswanathan is an Indian writer, author, entrepreneur and engineer.He is popularly known for his answers and posts on the question-and-answer site Quora.
+ Balaji has written more than 3,300 answers and has more than 202,830  followers on Quora, which makes him the most followed person on the website
+ Balaji is the founder of NalandaU,CEO and co-founder of Be Limtless Incand Zingfin.com."
+        android:id="@+id/textView9"
+        android:layout_alignTop="@+id/textView8"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="46dp"
+        android:singleLine="false"
+       android:ellipsize="end"
+        android:textColor="#FFFFFFFF" />
+
+</RelativeLayout>

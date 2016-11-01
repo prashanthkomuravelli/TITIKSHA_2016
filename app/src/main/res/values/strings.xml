@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Titiksha</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="matter">Titiksha is the annual science and technology festival of SMVDU. Titiksha is the largest festival of Jammu Kashmir. Titiksha has a footfall of more than 5000 students. Titiksha showcases various Innovative Projects,Tech Talks,Entrepreneurial Talks,Technical Events,Mega Events,Gaming Zones,Concerts by Various Artists and many more...</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="elcovision">only for 1 st year and 2 nd year students
+
+Totally based on electronics.
+
+ROUND-1:
+
+1] We will present 4 circuits at a time with their proper name witten below it for 30
+
+sec{time may exceed to 40 sec}
+
+2]We will give name of components to the participants and ask the circuit in which it was
+
+present{they can either write the name or number of the circuit}.
+
+3]We will finalise top 5 participants on the basis of their right answer.
+
+NOTE- A PEN AND A BLANK PAPER WILL BE PROVIDED TO THE
+
+PARTICIPANTS FOR DRAWING THE CIRCUIT(IF THEY WANT) WITHIN TIME
+
+LIMIT AND ALSO FOR WRITING THE ANSWER.
+
+ROUND-2
+
+1] 5 basic questions will be asked from the selected participants from round 1.Questions
+
+will be based on basic electronics.
+
+2]1 st,2 nd ,3 rd rankers will be decided on the answers.
+
+</string>
+</resources>
